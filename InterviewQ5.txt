@@ -1,0 +1,13 @@
+Q5)Explain universal selector.
+
+Ans-
+
+The universal selector matches the name of any of the element type instead of selecting elements of a specific type.
+
+
+<style>    
+* {    
+   color: green;    
+   font-size: 20px;    
+}     
+</style>    

@@ -1,0 +1,12 @@
+Q4)What is the use of CSS Opacity?
+
+Ans -
+
+The CSS opacity property is used to specify the transparency of an element. In simple word, you can say that it specifies the clarity of the image. In technical terms, Opacity is defined as the degree to which light is allowed to travel through an object. For example:
+
+<style>    
+img.trans {    
+    opacity: 0.4;    
+    filter: alpha(opacity=40); /* For IE8 and earlier */    
+}    
+</style>   

@@ -1,0 +1,8 @@
+Q3)Name some CSS style components.
+Some CSS Style components are:
+
+Ans -
+
+Selector
+Property
+Value

@@ -1,0 +1,7 @@
+Q1)What are the advantages of Embedded Style Sheets?
+
+Ans-
+
+You can create classes for use on multiple tag types in the document.
+You can use selector and grouping methods to apply styles in complex situations.
+No extra download is required to import the information.
